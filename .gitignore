@@ -1,6 +1,7 @@
 # Real class / participant rosters can contain personal information
 *.xlsx
 *.xls
+!sample_roster.xlsx
 
 # Python environments and runtime/build output
 .venv/
