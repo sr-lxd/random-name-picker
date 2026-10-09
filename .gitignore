@@ -1,0 +1,14 @@
+# Real class / participant rosters can contain personal information
+*.xlsx
+*.xls
+
+# Python environments and runtime/build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+build/
+dist/
+*.exe
+*.spec
