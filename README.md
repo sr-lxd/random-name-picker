@@ -1,5 +1,11 @@
 # 随机点名与抽奖
 
+<!-- en-intro -->
+**Random Name Picker** — a Windows desktop tool that draws names from an Excel roster; made for classroom roll calls, prize drawings and group assignments.
+<!-- /en-intro -->
+
+---
+
 一个 Windows 桌面小工具。它从 Excel 名单中随机抽取一人，适用于课堂点名、活动抽奖和小组任务分配。
 
 ## 功能
